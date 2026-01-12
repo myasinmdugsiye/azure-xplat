@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Program Files (x86)/Microsoft/EdgeCore/143.0.3650.96"
+		},
+		{
+			"path": "../../../../Program Files (x86)/Microsoft/EdgeCore"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	}
+}
